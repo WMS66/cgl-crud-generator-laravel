@@ -69,4 +69,4 @@ Rodar o projeto
 php artisan serve
 ```
 
-[Clone do Projeto](https:)
+[Clone do Projeto](https://github.com/WMS66/cgl-crud-generator-laravel.git)
